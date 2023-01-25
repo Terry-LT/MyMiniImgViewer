@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MyMiniImgViewer:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MyMiniImgViewer_jar</output-path>
+    <root id="archive" name="MyMiniImgViewer.jar">
+      <element id="module-output" name="MyMiniImgViewer" />
+    </root>
+  </artifact>
+</component>
